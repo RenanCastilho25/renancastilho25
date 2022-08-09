@@ -23,7 +23,7 @@
 
 <h3>Principais Repositorios<h3/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nancastilho&repo=github-readme-stats&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nancastilho&repo=sistema-de-gestao-flask&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
