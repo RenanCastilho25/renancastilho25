@@ -1,10 +1,6 @@
 
 <div align="center">
 
-  <a href="https://github.com/nancastilho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancastilho&layout=compact&langs_count=7&theme=tokyonight"/>
-  
-  ##
   
   [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,ts,nodejs,py,tailwind )](https://skills.thijs.gg)
   
